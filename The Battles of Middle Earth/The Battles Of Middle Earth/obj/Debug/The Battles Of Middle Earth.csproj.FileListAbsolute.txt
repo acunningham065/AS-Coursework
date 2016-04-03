@@ -1,0 +1,263 @@
+F:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+F:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+F:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+F:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe
+F:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.pdb
+F:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csprojResolveAssemblyReference.cache
+F:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HelpScreen.resources
+F:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HighScoreScreen.resources
+F:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_SplashScreen.resources
+F:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_TheBattlesOfMiddleEarth.resources
+F:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_UserRegistration.resources
+F:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.Properties.Resources.resources
+F:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\The Battles Of Middle Earth\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+C:\Users\Aaron\Desktop\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+C:\Users\Aaron\Desktop\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Aaron\Desktop\The Battles Of Middle Earth\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe
+C:\Users\Aaron\Desktop\The Battles Of Middle Earth\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Aaron\Desktop\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HelpScreen.resources
+C:\Users\Aaron\Desktop\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HighScoreScreen.resources
+C:\Users\Aaron\Desktop\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_SplashScreen.resources
+C:\Users\Aaron\Desktop\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_TheBattlesOfMiddleEarth.resources
+C:\Users\Aaron\Desktop\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_UserRegistration.resources
+C:\Users\Aaron\Desktop\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.Properties.Resources.resources
+D:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+D:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+D:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+D:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe
+D:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.pdb
+D:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csprojResolveAssemblyReference.cache
+D:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HelpScreen.resources
+D:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HighScoreScreen.resources
+D:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_SplashScreen.resources
+D:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_TheBattlesOfMiddleEarth.resources
+D:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_UserRegistration.resources
+D:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.Properties.Resources.resources
+D:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csproj.GenerateResource.Cache
+D:\SSD\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_ArmyBuildingScreen.resources
+D:\SSD\Projects\The Battles Of Middle Earth\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+D:\SSD\Projects\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+D:\SSD\Projects\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_TheBattlesOfMiddleEarth.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HelpScreen.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HighScoreScreen.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_SplashScreen.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_UserRegistration.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csproj.GenerateResource.Cache
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\The Battles Of Middle Earth\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\The Battles Of Middle Earth\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\The Battles Of Middle Earth\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.pdb
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.Properties.Resources.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\The Battles Of Middle Earth\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+W:\All Users\Homework\1Mr Noble AS SSD\Project Stage 1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+W:\All Users\Homework\1Mr Noble AS SSD\Project Stage 1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+W:\All Users\Homework\1Mr Noble AS SSD\Project Stage 1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+W:\All Users\Homework\1Mr Noble AS SSD\Project Stage 1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe
+W:\All Users\Homework\1Mr Noble AS SSD\Project Stage 1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.pdb
+W:\All Users\Homework\1Mr Noble AS SSD\Project Stage 1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csprojResolveAssemblyReference.cache
+W:\All Users\Homework\1Mr Noble AS SSD\Project Stage 1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_TheBattlesOfMiddleEarth.resources
+W:\All Users\Homework\1Mr Noble AS SSD\Project Stage 1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HelpScreen.resources
+W:\All Users\Homework\1Mr Noble AS SSD\Project Stage 1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HighScoreScreen.resources
+W:\All Users\Homework\1Mr Noble AS SSD\Project Stage 1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_SplashScreen.resources
+W:\All Users\Homework\1Mr Noble AS SSD\Project Stage 1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_UserRegistration.resources
+W:\All Users\Homework\1Mr Noble AS SSD\Project Stage 1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.Properties.Resources.resources
+W:\All Users\Homework\1Mr Noble AS SSD\Project Stage 1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csproj.GenerateResource.Cache
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.pdb
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csprojResolveAssemblyReference.cache
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_TheBattlesOfMiddleEarth.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HelpScreen.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HighScoreScreen.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_SplashScreen.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_UserRegistration.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.Properties.Resources.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csproj.GenerateResource.Cache
+E:\SSD\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+E:\SSD\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+E:\SSD\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Aaron\Desktop\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+C:\Users\Aaron\Desktop\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+C:\Users\Aaron\Desktop\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Aaron\Desktop\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_TheBattlesOfMiddleEarth.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HelpScreen.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HighScoreScreen.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_SplashScreen.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_UserRegistration.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.Properties.Resources.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe
+C:\Users\Aaron\Desktop\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Aaron\Desktop\All Coursework\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+C:\Users\Aaron\Desktop\All Coursework\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+C:\Users\Aaron\Desktop\All Coursework\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Aaron\Desktop\All Coursework\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe
+C:\Users\Aaron\Desktop\All Coursework\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Aaron\Desktop\All Coursework\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\All Coursework\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_TheBattlesOfMiddleEarth.resources
+C:\Users\Aaron\Desktop\All Coursework\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HelpScreen.resources
+C:\Users\Aaron\Desktop\All Coursework\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HighScoreScreen.resources
+C:\Users\Aaron\Desktop\All Coursework\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_SplashScreen.resources
+C:\Users\Aaron\Desktop\All Coursework\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_UserRegistration.resources
+C:\Users\Aaron\Desktop\All Coursework\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.Properties.Resources.resources
+C:\Users\Aaron\Desktop\All Coursework\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\All Coursework V1.1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+C:\Users\Aaron\Desktop\All Coursework V1.1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+C:\Users\Aaron\Desktop\All Coursework V1.1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Aaron\Desktop\All Coursework V1.1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe
+C:\Users\Aaron\Desktop\All Coursework V1.1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Aaron\Desktop\All Coursework V1.1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\All Coursework V1.1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_TheBattlesOfMiddleEarth.resources
+C:\Users\Aaron\Desktop\All Coursework V1.1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HelpScreen.resources
+C:\Users\Aaron\Desktop\All Coursework V1.1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HighScoreScreen.resources
+C:\Users\Aaron\Desktop\All Coursework V1.1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_SplashScreen.resources
+C:\Users\Aaron\Desktop\All Coursework V1.1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_UserRegistration.resources
+C:\Users\Aaron\Desktop\All Coursework V1.1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.Properties.Resources.resources
+C:\Users\Aaron\Desktop\All Coursework V1.1\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csproj.GenerateResource.Cache
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\mainGameScreenHelp.rtf
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\userRegistrationHelp.rtf
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.2\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.2\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.2\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.3\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.3\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.3\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.3\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\mainGameScreenHelp.rtf
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.3\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\userRegistrationHelp.rtf
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.3\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.3\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.3\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.3\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_TheBattlesOfMiddleEarth.resources
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.3\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HelpScreen.resources
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.3\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HighScoreScreen.resources
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.3\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_SplashScreen.resources
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.3\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_UserRegistration.resources
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.3\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.Properties.Resources.resources
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.3\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Bow Fire.wav
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Mace Swing.wav
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Swords Clash.wav
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\mainGameScreenHelp.rtf
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\userRegistrationHelp.rtf
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.pdb
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csprojResolveAssemblyReference.cache
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_TheBattlesOfMiddleEarth.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HelpScreen.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HighScoreScreen.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_SplashScreen.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_UserRegistration.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.Properties.Resources.resources
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csproj.GenerateResource.Cache
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Bow Fire.wav
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Mace Swing.wav
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Swords Clash.wav
+F:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+F:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+F:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+F:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Bow Fire.wav
+F:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Mace Swing.wav
+F:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Swords Clash.wav
+F:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\mainGameScreenHelp.rtf
+F:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\userRegistrationHelp.rtf
+F:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe
+F:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.pdb
+F:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csprojResolveAssemblyReference.cache
+F:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_TheBattlesOfMiddleEarth.resources
+F:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HelpScreen.resources
+F:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HighScoreScreen.resources
+F:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_SplashScreen.resources
+F:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_UserRegistration.resources
+F:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.Properties.Resources.resources
+F:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Bow Fire.wav
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Mace Swing.wav
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Swords Clash.wav
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\mainGameScreenHelp.rtf
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\userRegistrationHelp.rtf
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_TheBattlesOfMiddleEarth.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HelpScreen.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HighScoreScreen.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_SplashScreen.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_UserRegistration.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.Properties.Resources.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csproj.GenerateResource.Cache
+D:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+D:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+D:\SSD\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Bow Fire.wav
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Mace Swing.wav
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Swords Clash.wav
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\mainGameScreenHelp.rtf
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\userRegistrationHelp.rtf
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_TheBattlesOfMiddleEarth.resources
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HelpScreen.resources
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HighScoreScreen.resources
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_SplashScreen.resources
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_UserRegistration.resources
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.Properties.Resources.resources
+C:\Users\Owner\Desktop\Aaron Cunningham Coursework V1.4\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.5\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.5\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.5\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.5\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Bow Fire.wav
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.5\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Mace Swing.wav
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.5\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Swords Clash.wav
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.5\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\mainGameScreenHelp.rtf
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.5\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\userRegistrationHelp.rtf
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.5\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.5\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.5\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.5\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_TheBattlesOfMiddleEarth.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.5\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HelpScreen.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.5\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HighScoreScreen.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.5\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_SplashScreen.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.5\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_UserRegistration.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.5\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.Properties.Resources.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.5\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.6\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.6\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.6\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.6\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Bow Fire.wav
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.6\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Mace Swing.wav
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.6\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\Swords Clash.wav
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.6\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\mainGameScreenHelp.rtf
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.6\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\userRegistrationHelp.rtf
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.6\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.6\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.pdb
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.6\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.6\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_TheBattlesOfMiddleEarth.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.6\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HelpScreen.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.6\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_HighScoreScreen.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.6\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_SplashScreen.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.6\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.frm_UserRegistration.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.6\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The_Battles_Of_Middle_Earth.Properties.Resources.resources
+C:\Users\Aaron\Desktop\Aaron Cunningham Coursework V1.6\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.csproj.GenerateResource.Cache
+D:\SSD\Aaron Cunningham Coursework V1.7\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+D:\SSD\Aaron Cunningham Coursework V1.7\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+D:\SSD\Aaron Cunningham Coursework V1.7\Aaron Cunningham SSD Coursework\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
+D:\Not Software\AS Level\SSD\Aaron Cunningham Coursework V1.7\Cand 9042 - Cunningham A\The Battles of Middle Earth\The Battles Of Middle Earth\bin\Debug\The Battles Of Middle Earth.exe.config
+D:\Not Software\AS Level\SSD\Aaron Cunningham Coursework V1.7\Cand 9042 - Cunningham A\The Battles of Middle Earth\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.exe
+D:\Not Software\AS Level\SSD\Aaron Cunningham Coursework V1.7\Cand 9042 - Cunningham A\The Battles of Middle Earth\The Battles Of Middle Earth\obj\Debug\The Battles Of Middle Earth.pdb
